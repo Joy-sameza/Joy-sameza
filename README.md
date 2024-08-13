@@ -19,15 +19,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Joy-sameza&show_icons=true&theme=dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
     srcset="https://github-readme-stats.vercel.app/api?username=Joy-sameza&show_icons=true&rank_icon=github"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joy-sameza&show_icons=true&rank_icon=github" />
 </picture>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joy-sameza &theme=monokai"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-sameza&size_weight=0.5&count_weight=0.5)
