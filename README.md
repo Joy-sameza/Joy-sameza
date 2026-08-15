@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm `Joy Sameza`. A self taught backend and mobile developer
 
+---
+
+Software Engineer. ⚠️ My active development, current projects, and CI/CD pipelines have moved to [@funSamy](https://github.com/funSamy).
+
+---
+
 - 🔭 I’m currently working on a [management software](https://github.com/Joy-sameza/Banane) (web app) for a local business.
 - 🌱 I’m currently learning *advanced concepts in Flutter*
 - 📫 You can reach to me by mail at joysameza@gmail.com or using the links in bio
